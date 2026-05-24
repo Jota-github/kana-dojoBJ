@@ -511,5 +511,21 @@
     "backgroundColor": "oklch(14.0% 0.060 300.0 / 1)",
     "mainColor": "oklch(78.0% 0.220 330.0 / 1)",
     "secondaryColor": "oklch(85.0% 0.175 190.0 / 1)"
+  },
+   {
+    "id": "dragon-fly",
+    "name": "Dragon Fly",
+    "description": "Evening mist over still water — a cool, tranquil theme with serene blue undertones",
+    "backgroundColor": "oklch(18.0% 0.035 280.0 / 1)",
+    "mainColor": "oklch(78.0% 0.140 200.0 / 1)",
+    "secondaryColor": "oklch(65.0% 0.100 160.0 / 1)"
+  },
+  {
+    "id": "sakura-dawn",
+    "name": "Sakura Dawn",
+    "description": "Cherry blossoms at sunrise — a soft, romantic theme with gentle pink and lavender hues",
+    "backgroundColor": "oklch(20.0% 0.040 350.0 / 1)",
+    "mainColor": "oklch(80.0% 0.150 15.0 / 1)",
+    "secondaryColor": "oklch(68.0% 0.110 320.0 / 1)"
   }
 ]
